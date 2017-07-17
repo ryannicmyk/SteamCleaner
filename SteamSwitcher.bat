@@ -1,5 +1,5 @@
-rem for clearing steam cache
-rem use it all you want, find the latest version at github.com/lleijaxyz
+@rem for clearing steam cache
+@rem use it all you want, find the latest version at github.com/lleijaxyz
 @echo off
 echo This Program Will End All Steam Programs And Attempt To Clean The Cache. 
 echo Do You Wish To Proceede
